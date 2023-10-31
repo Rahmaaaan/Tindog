@@ -1,12 +1,11 @@
 # Tindog
 
-🐾 [Description](#description)
-🐾 [Features](#features)
-🐾 [Demo](#demo)
-🐾 [Installation](#installation)
-🐾 [Usage](#usage)
-🐾 [Contributing](#contributing)
-
+- 🐾 [Description](#description)
+- 🐾 [Features](#features)
+- 🐾 [Demo](#demo)
+- 🐾 [Installation](#installation)
+- 🐾 [Usage](#usage)
+- 🐾 [Contributing](#contributing)
 
 ## Description
 
@@ -14,12 +13,9 @@ TinDog is more than just a website; it's a haven for dog lovers and their furry 
 
 ## Features
 
-🐾 **User-Friendly Interface:** Our website is designed with a clean and intuitive user interface, making it a breeze for you and your dog to navigate.
-
-🐾 **Easy-to-Use Navigation:** Explore different sections effortlessly, ensuring you find what you need without hassle.
-
-🐾 **Dog Profiles:** View and create captivating profiles for your dogs, highlighting their unique personalities and preferences.
-
+- 🐾 **User-Friendly Interface:** Our website is designed with a clean and intuitive user interface, making it a breeze for you and your dog to navigate.
+- 🐾 **Easy-to-Use Navigation:** Explore different sections effortlessly, ensuring you find what you need without hassle.
+- 🐾 **Dog Profiles:** View and create captivating profiles for your dogs, highlighting their unique personalities and preferences.
 
 ## Demo
 
@@ -46,4 +42,3 @@ Getting started with TinDog is a breeze:
 ## Contributing
 
 We welcome contributions from our community! If you happen to spot any bugs or have valuable suggestions for improvements, please don't hesitate to create a pull request or submit an issue. Your input is greatly appreciated!
-
