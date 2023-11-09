@@ -25,7 +25,12 @@ Curious to see TinDog in action? Check out our live demo [here](https://rahmaaaa
 
 Ready to bring TinDog to your local environment? Follow these simple steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine.\
+
+   ```bash
+   git clone https://github.com/username/projectname.git
+   ```
+
 2. Open the `index.html` file in your web browser.
 
 ## Usage
@@ -41,4 +46,27 @@ Getting started with TinDog is a breeze:
 
 ## Contributing
 
-We welcome contributions from our community! If you happen to spot any bugs or have valuable suggestions for improvements, please don't hesitate to create a pull request or submit an issue. Your input is greatly appreciated!
+Contributions to TinDog are welcome! To contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+3. Make changes and commit them:
+
+```bash
+git commit -m "Add your commit message here"
+```
+
+4. Push your changes to your branch:
+
+```bash
+git push origin feature/your-feature-name
+```
+
+5. Create a pull request on the main repository.
+
+Please follow the project's coding guidelines and maintain a clean commit history.
